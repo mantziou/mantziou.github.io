@@ -1,4 +1,4 @@
-My main research focus is the statistical analysis of network data. Networks emerge in various scientific fields such as Sociology, Biology, Neuroscience to name a few. Even though research on networks has been ongoing for several years, there is still a great need for the development of methods to better understand and analyse networks, as well as get insights from their structure under different settings. 
+My main research focus is the statistical analysis of network data. Networks emerge in various scientific fields such as Sociology, Biology, Neuroscience to name a few. Even though research on networks has been ongoing for several years, there is still a great need for the development of methods to better understand and analyse networks in order to get insights from their structure under different settings. 
 
 ## Publications
 
