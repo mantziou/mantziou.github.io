@@ -4,6 +4,6 @@ output:
     css: https://github.com/mantziou/mantziou.github.io/blob/master/test.css
 ---
 
-## Publications
+<green>Publications</green>
 
 ## Conferences 
