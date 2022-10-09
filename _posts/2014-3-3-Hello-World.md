@@ -1,9 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: 
 ---
+I am a Research Associate at the Alan Turing Institute supervised by Gesine Reinert and Mihai Cucuringu from the University of Oxford.
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Previously I was a Research Assistant in Statistical Cyber-Security at Imperial College London supervised by Nick Heard.
+
+I did my PhD in Statistics at Lancaster University supervised by Simon Lunagomez and Robin Mitra.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
