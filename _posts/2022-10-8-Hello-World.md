@@ -1,3 +1,7 @@
+---
+layout: post
+title: More about
+---
 
 I am a Research Associate at the Alan Turing Institute supervised by Gesine Reinert and Mihai Cucuringu from the University of Oxford.
 
