@@ -26,7 +26,7 @@ F S Passino, A Mantziou, P Thiede, N Heard, R Bevington
 **The 24th International Conference on Computational Statistics (COMPSTAT), Bologna Italy (23-26 Aug 2022)**
 *Presentation on "Unsupervised attack pattern detection in cyber-security using topic modelling"*
 
-**International Society of Bayesian Analysis (ISBA), Montreal Canada (26 June-1 July 2022)**
+**International Society for Bayesian Analysis (ISBA), Montreal Canada (26 June-1 July 2022)**
 *Poster presentation on "Bayesian model-based clustering for multiple network data"*
 
 **Cardiff University Statistics Seminar Series, Virtual seminar (March 2021)**
