@@ -1,6 +1,4 @@
----
-layout: post
----
+
 I am a Research Associate at the Alan Turing Institute supervised by Gesine Reinert and Mihai Cucuringu from the University of Oxford.
 
 Previously I was a Research Assistant in Statistical Cyber-Security at Imperial College London supervised by Nick Heard.
