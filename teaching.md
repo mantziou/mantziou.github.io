@@ -1,5 +1,3 @@
-## Teaching Assistant
-
 ### 2018-2021
 
 * Probability
