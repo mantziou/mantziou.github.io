@@ -10,9 +10,9 @@ A Mantziou, S Lunagomez, M Robin
 A Mantziou, M Robin, S Lunagomez
 [Pre-print](https://arxiv.org/abs/2111.07840)
 
-**Unsupervised attack pattern detection in cyber-security using topic modelling**
-F S Passino, A Mantziou, P Thiede, N Heard, R Bevington
-*In preparation*
+**Unsupervised attack pattern detection in honeypot data using Bayesian topic modelling**
+F S Passino, A Mantziou, D Ghani, P Thiede, R Bevington, N Heard
+[Pre-print](https://arxiv.org/abs/2301.02505)
 
 ## Conferences, Seminars and Workshops
 ### Contributed
