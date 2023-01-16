@@ -17,7 +17,7 @@ F S Passino, A Mantziou, D Ghani, P Thiede, R Bevington, N Heard
 ## Conferences, Seminars and Workshops
 ### Contributed
 
-**Networks and Time, London, (13 Jan 2023)**
+**Networks and Time, Queen Mary University of London, (13 Jan 2023)**
 *Presentation on "A network autoregressive model for networks with time-varying edge weights*
 
 **The 24th International Conference on Computational Statistics (COMPSTAT), Bologna Italy (23-26 Aug 2022)**
