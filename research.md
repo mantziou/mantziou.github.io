@@ -14,8 +14,18 @@ A Mantziou, M Robin, S Lunagomez
 F S Passino, A Mantziou, D Ghani, P Thiede, R Bevington, N Heard
 [Pre-print](https://arxiv.org/abs/2301.02505)
 
+**The GNAR-edge model: A network autoregressive model for networks with time-varying edge weights**
+A Mantziou, M Cucuringu, Victor Meirinhos, Gesine Reinert
+[Pre-print](https://arxiv.org/abs/2305.16097)
+
 ## Conferences, Seminars and Workshops
 ### Contributed
+
+**University of Oxford, Complexity Economics Seminar (24 May 2023)**
+*Presentation on "The GNAR-edge model: A network autoregressive model for networks with time-varying edge weights"*
+
+**ESCoE Conference on Economic Measurement 2023, King's College London, London (17-19 May 2023)**
+*Poster presentation on "The GNAR-edge model: A network autoregressive model for networks with time-varying edge weights"*
 
 **Networks and Time meeting organised by Queen Mary University of London, London (13 Jan 2023)**
 *Presentation on "A network autoregressive model for networks with time-varying edge weights"*
