@@ -3,7 +3,7 @@ My main research focus is the statistical analysis of network data. Networks eme
 ## Publications
 
 **Bayesian model-based clustering for populations of network data**
-A Mantziou, S Lunagomez, M Robin
+A Mantziou, S Lunagomez, M Robin - 
 Annals of Applied Statistics (accepted)
 [Pre-print](https://arxiv.org/abs/2107.03431)
 
@@ -22,7 +22,7 @@ A Mantziou, M Cucuringu, Victor Meirinhos, Gesine Reinert
 ## Conferences, Seminars and Workshops
 ### Contributed
 
-**Greek Stochastics, Contemporary Bayesian Inference, Naxos Greece (7-10 Jul 2023)**
+**Greek Stochastics ν', Contemporary Bayesian Inference, Naxos Greece (7-10 Jul 2023)**
 *Presentation on "Bayesian model-based clustering for populations of network data"*
 
 **European Meating of Statisticians (EMS), Warsaw Poland (3-7 Jul 2023)**
