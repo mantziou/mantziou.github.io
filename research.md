@@ -22,6 +22,9 @@ A Mantziou, M Cucuringu, Victor Meirinhos, Gesine Reinert
 ## Conferences, Seminars and Workshops
 ### Contributed
 
+**Royal Statistical Society International Conference, Harrogate UK (4-7 Sep 2023)**
+*Presentation on "The GNAR-edge model: A network autoregressive model for networks with time-varying edge weights"*
+
 **Greek Stochastics ν', Contemporary Bayesian Inference, Naxos Greece (7-10 Jul 2023)**
 *Presentation on "Bayesian model-based clustering for populations of network data"*
 
@@ -50,6 +53,8 @@ A Mantziou, M Cucuringu, Victor Meirinhos, Gesine Reinert
 *Participating and presenting papers on Networks for members of Lancaster University’s Data Science Institute.*
 
 ### Attended
+
+**Workshop on Statistical Analysis of Networks, University of Warwick (18-19 Sep 2023)**
 
 **Introduction to Latent Class Analysis, University of Manchester (14-15 March 2019)**
 
