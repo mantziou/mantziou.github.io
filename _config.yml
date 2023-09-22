@@ -9,7 +9,7 @@ name: Anastasia Mantziou
 description: Research Associate at the Alan Turing Institute
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-# avatar: https://github.com/mantziou/mantziou.github.io/tree/master/images/jekyll-logo.png
+avatar: https://github.com/mantziou/mantziou.github.io/tree/master/images/jekyll-logo.png
 # avatar: images/photo_me.png
 
 #
@@ -48,7 +48,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "https://github.com/mantziou/mantziou.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
