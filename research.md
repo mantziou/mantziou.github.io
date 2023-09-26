@@ -16,7 +16,8 @@ F S Passino, A Mantziou, D Ghani, P Thiede, R Bevington, N Heard
 [Pre-print](https://arxiv.org/abs/2301.02505)
 
 **The GNAR-edge model: A network autoregressive model for networks with time-varying edge weights**
-A Mantziou, M Cucuringu, Victor Meirinhos, Gesine Reinert
+A Mantziou, M Cucuringu, Victor Meirinhos, Gesine Reinert -
+Journal of Complex Networks (accepted)
 [Pre-print](https://arxiv.org/abs/2305.16097)
 
 ## Conferences, Seminars and Workshops
