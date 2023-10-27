@@ -23,6 +23,9 @@ Journal of Complex Networks (accepted)
 ## Conferences, Seminars and Workshops
 ### Contributed
 
+**DeepMind/ELLIS Computational Statistics and Machine Learning (CSML) Seminar Series,University College London (UCL) (13 Oct 2023)**
+*Presentation on ”Bayesian model-based clustering for populations of network data"*
+
 **Royal Statistical Society International Conference, Harrogate UK (4-7 Sep 2023)**
 *Presentation on "The GNAR-edge model: A network autoregressive model for networks with time-varying edge weights"*
 
